@@ -7,3 +7,4 @@ This is the shell basics project of ALX Software Engineering Internsip
 [5-listfilesdigitonly] displays current directory contents in long format, with user and group IDs dispalyed numerically and hidden files
 [6-firstdirectory] creates a directory in the /tmp/ directory
 [7-movethatfile] moves the file betty from /tmp/ to /tmp/my_first_directory
+[8-firstdelete] deletes the file "betty"
