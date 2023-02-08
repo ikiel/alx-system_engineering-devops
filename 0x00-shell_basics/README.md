@@ -5,3 +5,4 @@ This is the shell basics project of ALX Software Engineering Internsip
 3-listfiles displays current directory contents in a long format
 [4-listmorefiles] is a script that displays current directory contents, including hidden files (starting with .) in long format
 [5-listfilesdigitonly] displays current directory contents in long format, with user and group IDs dispalyed numerically and hidden files
+[6-firstdirectory] creates a directory in the /tmp/ directory
